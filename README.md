@@ -8,6 +8,8 @@ no classification primeiro eu importei o View e o Text para poder criar uma div 
 
 pra usar o expo go é só usar o comando npx expo start --tunell
 
+pra baixar o expo go é o comando npm install -g expo-cli
+
 pra clonar é só ir aq no github e pegar o caminho dps dar um git clone (link copiado)
 
 https://github.com/user-attachments/assets/093760ae-c9e0-47b3-b7bd-3eb10b90c989
