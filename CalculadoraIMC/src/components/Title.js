@@ -5,7 +5,7 @@ const Title = () => {
         <Text style={styles.title}>Calculadora de IMC</Text>
     );
 };
-
+// o css do title , pra aumentar, deixar em negrito e alinhar no centro
 const styles = StyleSheet.create({
     title: {
         fontSize: 32,
