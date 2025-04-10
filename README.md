@@ -7,3 +7,5 @@ no classification primeiro eu importei o View e o Text para poder criar uma div 
 
 https://github.com/user-attachments/assets/093760ae-c9e0-47b3-b7bd-3eb10b90c989
 
+https://youtu.be/mFT02WhAghs
+
